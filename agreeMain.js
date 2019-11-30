@@ -474,7 +474,7 @@ function hint8(){
     newNounCLC2nd = new Noun(nounArrayCLC2nd[randomNounCLC2ndIndex][0]);
     nounCLC2nd = newNounCLC2nd.nounForm;
 
-    var nounArrayCLC3rd = [["homo", "homin", "man"], ["pater", "patr","father"],["uxor", "uxor", "wife"],["senex", "sen", "old man"],["mercator", "mercator", "merchant"],["infans", "infant", "baby"],["iuvenis", "iuven","young man"],["mater", "matr", "mother"],["hospes", "hospit","guest"],["frater", "fatr", "brother"], ["soror", "soror", "sister"], ["civis", "civ","citizen"], ["tonsor", "tonsor","barber"],["testis", "test","witness"],["senator", "senator","senator"],["caupo", "caupon","innkeeper"],["leo", "leon","lion"],["pav", "pavon","peacock"],["canis", "can","dog"],["pestis", "pest","pest"],["fur", "fur","thief"],["gladiator", "gladiat","gladiator"],["cliens", "client","client"]];
+    var nounArrayCLC3rd = [["homo", "homin", "man"], ["pater", "patr","father"],["uxor", "uxor", "wife"],["senex", "sen", "old man"],["mercator", "mercator", "merchant"],["infans", "infant", "baby"],["iuvenis", "iuven","young man"],["mater", "matr", "mother"],["hospes", "hospit","guest"],["frater", "fatr", "brother"], ["soror", "soror", "sister"], ["civis", "civ","citizen"], ["tonsor", "tonsor","barber"],["testis", "test","witness"],["senator", "senator","senator"],["caupo", "caupon","innkeeper"],["leo", "leon","lion"],["pav", "pavon","peacock"],["canis", "can","dog"],["pestis", "pest","pest"],["fur", "fur","thief"],["gladiator", "gladiator","gladiator"],["cliens", "client","client"]];
     var randomNounCLC3rdIndex = Math.floor(Math.random() * nounArrayCLC3rd.length);
     newNounCLC3rd = new Noun(nounArrayCLC3rd[randomNounCLC3rdIndex][0]);
     nounCLC3rd = newNounCLC3rd.nounForm;
@@ -725,7 +725,7 @@ function hint8(){
     newNounCLC2nd = new Noun(nounArrayCLC2nd[randomNounCLC2ndIndex][0]);
     nounCLC2nd = newNounCLC2nd.nounForm;
 
-    var nounArrayCLC3rd = [["homo", "homin", "man"], ["pater", "patr","father"],["uxor", "uxor", "wife"],["senex", "sen", "old man"],["mercator", "mercator", "merchant"],["infans", "infant", "baby"],["iuvenis", "iuven","young man"],["mater", "matr", "mother"],["hospes", "hospit","guest"],["frater", "fatr", "brother"], ["soror", "soror", "sister"], ["civis", "civ","citizen"], ["tonsor", "tonsor","barber"],["testis", "test","witness"],["senator", "senator","senator"],["caupo", "caupon","innkeeper"],["leo", "leon","lion"],["pav", "pavon","peacock"],["canis", "can","dog"],["pestis", "pest","pest"],["fur", "fur","thief"],["gladiator", "gladiat","gladiator"],["cliens", "client","client"]];
+    var nounArrayCLC3rd = [["homo", "homin", "man"], ["pater", "patr","father"],["uxor", "uxor", "wife"],["senex", "sen", "old man"],["mercator", "mercator", "merchant"],["infans", "infant", "baby"],["iuvenis", "iuven","young man"],["mater", "matr", "mother"],["hospes", "hospit","guest"],["frater", "fatr", "brother"], ["soror", "soror", "sister"], ["civis", "civ","citizen"], ["tonsor", "tonsor","barber"],["testis", "test","witness"],["senator", "senator","senator"],["caupo", "caupon","innkeeper"],["leo", "leon","lion"],["pav", "pavon","peacock"],["canis", "can","dog"],["pestis", "pest","pest"],["fur", "fur","thief"],["gladiator", "gladiator","gladiator"],["cliens", "client","client"]];
     var randomNounCLC3rdIndex = Math.floor(Math.random() * nounArrayCLC3rd.length);
     newNounCLC3rd = new Noun(nounArrayCLC3rd[randomNounCLC3rdIndex][0]);
     nounCLC3rd = newNounCLC3rd.nounForm;
